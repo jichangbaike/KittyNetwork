@@ -29,6 +29,6 @@ Kitty Network 不限速，不限在线设备数量。晚高峰体验一般，不
 
 ## Kitty Network 测试图
 
-<img src="https://raw.githubusercontent.com/jichangbaike/KittyNetwork/refs/heads/main/images/KittyNetwork-test-20260507.jpg" alt="Kitty Network 测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/KittyNetwork/refs/heads/main/images/KittyNetwork-test-20260507.png" alt="Kitty Network 测试图">
 
 > 2026-05-07，电信1Gbps
