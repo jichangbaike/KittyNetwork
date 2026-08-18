@@ -81,7 +81,7 @@ Kitty Network 节点覆盖香港、台湾、日本、新加坡和美国等地区
 
 ## Kitty Network 节点测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/KittyNetwork/refs/heads/main/images/KittyNetwork-test-20260816.png" alt="Kitty Network 测试图">
+<img src="https://raw.githubusercontent.com/jichangbaike/KittyNetwork/refs/heads/main/images/KittyNetwork-test-20260816.jpg" alt="Kitty Network 测试图">
 
 > 测试时间：2026-08-16，测试环境：网络：联通 1Gbps
 >
